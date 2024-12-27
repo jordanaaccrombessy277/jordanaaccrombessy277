@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jordanaaccrombessy277/jordanaaccrombessy277/blob/main/image.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/jordanaaccrombessy277/jordanaaccrombessy277/blob/main/image.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/jordanaaccrombessy277/jordanaaccrombessy277/blob/main/image.jpg">
-</picture>
-
 <!--
 **jordanaaccrombessy277/jordanaaccrombessy277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
