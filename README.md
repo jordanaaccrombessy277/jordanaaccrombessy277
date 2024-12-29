@@ -3,7 +3,6 @@
 I'm Jordana, web developer
 
 - 🔭 I’m currently working on side projects
-- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Front-end ReactJS projects
 - 📫 How to reach me: accrombessyjordana@gmail.com
 - ⚡ Fun fact: ...
@@ -17,6 +16,6 @@ I'm Jordana, web developer
 
 <!--
 **jordanaaccrombessy277/jordanaaccrombessy277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🌱 I’m currently learning ReactJS
 Here are some ideas to get you started:
 -->
