@@ -3,8 +3,8 @@
 I'm Jordana, web developer
 
 - 🔭 I’m currently working on side projects
-- 🌱 I’m currently learning ReactJS and NextJS
-- 👯 I’m looking to collaborate on Front-end projects
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Front-end ReactJS projects
 - 📫 How to reach me: accrombessyjordana@gmail.com
 - ⚡ Fun fact: ...
 
